@@ -5,8 +5,8 @@ vimn
 
 | vim | vimn |
 |-----|------|
-| [w](http://vimhelp.appspot.com/motion.txt.html#w) | |
-| [W](http://vimhelp.appspot.com/motion.txt.html#W) | |
+| [w](http://vimhelp.appspot.com/motion.txt.html#w) | next token |
+| [W](http://vimhelp.appspot.com/motion.txt.html#W) | next word |
 | [e](http://vimhelp.appspot.com/motion.txt.html#e) | |
 | [E](http://vimhelp.appspot.com/motion.txt.html#E) | |
 | [b](http://vimhelp.appspot.com/motion.txt.html#b) | |
