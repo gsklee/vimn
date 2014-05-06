@@ -5,12 +5,12 @@ vimn
 
 | vim | vimn |
 |-----|------|
-| [w](http://vimhelp.appspot.com/motion.txt.html#w) | next token |
-| [W](http://vimhelp.appspot.com/motion.txt.html#W) | next word |
+| #[w](http://vimhelp.appspot.com/motion.txt.html#w) | next # token |
+| #[W](http://vimhelp.appspot.com/motion.txt.html#W) | next # word |
 | [e](http://vimhelp.appspot.com/motion.txt.html#e) | |
 | [E](http://vimhelp.appspot.com/motion.txt.html#E) | |
-| [b](http://vimhelp.appspot.com/motion.txt.html#b) | |
-| [B](http://vimhelp.appspot.com/motion.txt.html#B) | |
+| #[b](http://vimhelp.appspot.com/motion.txt.html#b) | last # token |
+| #[B](http://vimhelp.appspot.com/motion.txt.html#B) | last # word |
 | [h](http://vimhelp.appspot.com/motion.txt.html#h) | |
 | [j](http://vimhelp.appspot.com/motion.txt.html#j) | |
 | [k](http://vimhelp.appspot.com/motion.txt.html#k) | |
