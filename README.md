@@ -13,8 +13,8 @@ vimn
 | #[→](http://vimhelp.appspot.com/motion.txt.html#l) | next # character |
 | #[↑](http://vimhelp.appspot.com/motion.txt.html#k) | (last) # line |
 | #[↓](http://vimhelp.appspot.com/motion.txt.html#j) | next # line |
-| [{](http://vimhelp.appspot.com/motion.txt.html#%7B) | (last) # section |
-| [}](http://vimhelp.appspot.com/motion.txt.html#%7D) | next # section |
+| #[{](http://vimhelp.appspot.com/motion.txt.html#%7B) | (last) # section |
+| #[}](http://vimhelp.appspot.com/motion.txt.html#%7D) | next # section |
 | [^](http://vimhelp.appspot.com/motion.txt.html#%5E) | |
 | [$](http://vimhelp.appspot.com/motion.txt.html#%24) | |
 | [0](http://vimhelp.appspot.com/motion.txt.html#0) | |
