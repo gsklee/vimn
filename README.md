@@ -5,18 +5,16 @@ vimn
 
 | vim | vimn |
 |:---:|:----:|
+| #[b](http://vimhelp.appspot.com/motion.txt.html#b) | (last) # token |
+| #[B](http://vimhelp.appspot.com/motion.txt.html#B) | (last) # word |
 | #[w](http://vimhelp.appspot.com/motion.txt.html#w) | next # token |
 | #[W](http://vimhelp.appspot.com/motion.txt.html#W) | next # word |
-| [e](http://vimhelp.appspot.com/motion.txt.html#e) | - |
-| [E](http://vimhelp.appspot.com/motion.txt.html#E) | - |
-| #[b](http://vimhelp.appspot.com/motion.txt.html#b) | last # token |
-| #[B](http://vimhelp.appspot.com/motion.txt.html#B) | last # word |
-| #[h](http://vimhelp.appspot.com/motion.txt.html#h) | last # character |
-| #[j](http://vimhelp.appspot.com/motion.txt.html#j) | next # line |
-| #[k](http://vimhelp.appspot.com/motion.txt.html#k) | last # line |
-| #[l](http://vimhelp.appspot.com/motion.txt.html#l) | next # character |
-| [{](http://vimhelp.appspot.com/motion.txt.html#%7B) | |
-| [}](http://vimhelp.appspot.com/motion.txt.html#%7D) | |
+| #[←](http://vimhelp.appspot.com/motion.txt.html#h) | (last) # character |
+| #[→](http://vimhelp.appspot.com/motion.txt.html#l) | next # character |
+| #[↑](http://vimhelp.appspot.com/motion.txt.html#k) | (last) # line |
+| #[↓](http://vimhelp.appspot.com/motion.txt.html#j) | next # line |
+| [{](http://vimhelp.appspot.com/motion.txt.html#%7B) | (last) # section |
+| [}](http://vimhelp.appspot.com/motion.txt.html#%7D) | next # section |
 | [^](http://vimhelp.appspot.com/motion.txt.html#%5E) | |
 | [$](http://vimhelp.appspot.com/motion.txt.html#%24) | |
 | [0](http://vimhelp.appspot.com/motion.txt.html#0) | |
