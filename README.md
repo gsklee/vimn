@@ -1,14 +1,14 @@
 vimn
 ====
 
-### Motions
+### Selection
 
 | vim | vimn |
-|-----|------|
+|:---:|:----:|
 | #[w](http://vimhelp.appspot.com/motion.txt.html#w) | next # token |
 | #[W](http://vimhelp.appspot.com/motion.txt.html#W) | next # word |
-| [e](http://vimhelp.appspot.com/motion.txt.html#e) | |
-| [E](http://vimhelp.appspot.com/motion.txt.html#E) | |
+| [e](http://vimhelp.appspot.com/motion.txt.html#e) | - |
+| [E](http://vimhelp.appspot.com/motion.txt.html#E) | - |
 | #[b](http://vimhelp.appspot.com/motion.txt.html#b) | last # token |
 | #[B](http://vimhelp.appspot.com/motion.txt.html#B) | last # word |
 | [h](http://vimhelp.appspot.com/motion.txt.html#h) | |
