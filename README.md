@@ -11,10 +11,10 @@ vimn
 | [E](http://vimhelp.appspot.com/motion.txt.html#E) | - |
 | #[b](http://vimhelp.appspot.com/motion.txt.html#b) | last # token |
 | #[B](http://vimhelp.appspot.com/motion.txt.html#B) | last # word |
-| [h](http://vimhelp.appspot.com/motion.txt.html#h) | |
-| [j](http://vimhelp.appspot.com/motion.txt.html#j) | |
-| [k](http://vimhelp.appspot.com/motion.txt.html#k) | |
-| [l](http://vimhelp.appspot.com/motion.txt.html#l) | |
+| #[h](http://vimhelp.appspot.com/motion.txt.html#h) | last # character |
+| #[j](http://vimhelp.appspot.com/motion.txt.html#j) | next # line |
+| #[k](http://vimhelp.appspot.com/motion.txt.html#k) | last # line |
+| #[l](http://vimhelp.appspot.com/motion.txt.html#l) | next # character |
 | [{](http://vimhelp.appspot.com/motion.txt.html#%7B) | |
 | [}](http://vimhelp.appspot.com/motion.txt.html#%7D) | |
 | [^](http://vimhelp.appspot.com/motion.txt.html#%5E) | |
