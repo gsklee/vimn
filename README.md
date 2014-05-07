@@ -12,6 +12,13 @@ Vimglish
 | Vimglish | Description |
 |:---:|:---:|
 | select | **(default)** |
+| cut | |
+| copy | |
+| delete | |
+| indent | |
+| outdent | |
+| format | |
+| ~~repeat~~ | |
 
 ### Determiners
 
