@@ -1,6 +1,12 @@
 Vimglish
 ========
 
+## Grammar
+
+> **Verb + Determiner [ + Number ] + Noun [ + Preposition + Delimiter ]**
+
+## Dictionary
+
 ### Verbs
 
 | Vimglish | Description |
@@ -14,6 +20,7 @@ Vimglish
 | this | **(default)** |
 | last | |
 | next | |
+| all | Ignores *Number* and *Noun* |
 
 ### Nouns
 
@@ -28,4 +35,9 @@ Vimglish
 | row | |
 | column | |
 | view | |
-| all | No Determiner / Number |
+
+### Prepositions
+
+| Vimglish | Description |
+|:---:|:---:|
+| in | Requires *Delimiter* |
