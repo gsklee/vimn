@@ -29,6 +29,8 @@ Vimglish
 | next | |
 | all | Ignores *Number* and *Noun* |
 
+### Numbers
+
 ### Nouns
 
 | Vimglish | Description |
@@ -48,3 +50,5 @@ Vimglish
 | Vimglish | Description |
 |:---:|:---:|
 | in | Requires *Delimiter* |
+
+### Delimiters
